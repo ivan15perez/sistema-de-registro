@@ -26,4 +26,3 @@
 
 ## Autores
 | [<img src="https://github.com/Ivan15perez.png" width=115><br><sub>Ivan Luis Perez Soto</sub>](https://github.com/ivan15perez) |
-| :---: | :---: | :---: |
