@@ -19,7 +19,7 @@
 *[Conclusión](#conclusión)
 
 Para ejecutar el sistema, debe poner:
-'''npm install react'''
+```npm install react```
 
 ## :hammer:Funcionalidades del proyecto
 - `Funcionalidad 1`: descripción de la funcionalidad 1
