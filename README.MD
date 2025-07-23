@@ -25,5 +25,5 @@
 - `Funcionalidad 3`: descripción de la funcionalidad 3
 
 ## Autores
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Ivan Luis Perez Soto</sub>](https://github.com/ivan15perez) |
 | :---: | :---: | :---: |
