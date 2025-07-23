@@ -26,4 +26,8 @@
 
 ## Autores
 | [<img src="https://github.com/Ivan15perez.png" width=115><br><sub>Ivan Luis Perez Soto</sub>](https://github.com/ivan15perez) |
+<img 
+  src="https://github.com/Ivan15perez.png" 
+  alt="Mi foto" 
+  style="width:115px; height:115px; border-radius:50%; box-shadow:0 0 5px rgba(0,0,0,0.3);">
 | :---: | :---: | :---: |
